@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_welcome">Bienvenue</string>
+    <string name="title_weather">Météo</string>
+    <string name="view_weather">Voir la météo</string>
+    <string name="waiting_message_1">Nous téléchargeons les données</string>
+    <string name="waiting_message_2">C’est presque fini</string>
+    <string name="waiting_message_3">Plus que quelques secondes avant d’avoir le résultat</string>
+    <string name="start">Commencer</string>
+    <string name="loading">Chargement</string>
+    <string name="restart">Recommencer</string>
+    <string name="start_downloading">Commencer le téléchargement</string>
+    <string name="error_not_download_resource">Le téléchargement à echoue pour la raison suivante: %1s</string>
+    <string name="min_temp">Min: %1s°</string>
+    <string name="max_temp">Max: %1s°</string>
+    <string name="temp">T: %1s°</string>
+</resources>
